@@ -14,8 +14,8 @@ mobileconfig.getCalDAVConfig(
         displayName: 'My Calendar',
         displayDescription: 'Install this profile to auto configure your calendar',
 
-        accountName: 'CalDAV Config',
-        accountDescription: 'Configure your calendar',
+        accountName: 'Calendar',
+        accountDescription: 'My Calendar',
 
         dav: {
             hostname: 'http://localhost:8080',
